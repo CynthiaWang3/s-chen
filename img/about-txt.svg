@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="881" height="704" viewBox="0 0 881 704">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="881" height="704"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="881" height="704" fill="rgba(255,255,255,0)"/>
+    <text id="FREE_TO_BE" data-name="FREE TO BE" transform="translate(652.001 590.494) rotate(-26)" fill="#bee3e8" font-size="30" font-family="SegoeUIBlack, Segoe UI" letter-spacing="0.3em"><tspan x="0" y="0">FREE TO BE</tspan></text>
+    <text id="MINDFUL" transform="matrix(0.978, -0.208, 0.208, 0.978, 261.087, 110.455)" fill="#bee3e8" font-size="90" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="-245.667" y="0">MINDFUL</tspan></text>
+    <text id="T_H_I_N_K" data-name="T
+H
+I
+N
+K" transform="matrix(0.978, -0.208, 0.208, 0.978, 93.907, 345.525)" fill="#bee3e8" font-size="80" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="-20.957" y="0">T</tspan><tspan x="-28.398" y="90">H</tspan><tspan x="-10.645" y="180">I</tspan><tspan x="-29.922" y="270">N</tspan><tspan x="-23.203" y="360">K</tspan></text>
+    <text id="ING" transform="matrix(0.978, -0.208, 0.208, 0.978, 324.209, 661.423)" fill="#bee3e8" font-size="80" font-family="SegoeUI, Segoe UI" letter-spacing="0.2em"><tspan x="-84.008" y="0">ING</tspan></text>
+  </g>
+</svg>
