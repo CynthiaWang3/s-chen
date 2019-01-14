@@ -412,4 +412,8 @@ section.about .container {
 	.media-wrap {
 		margin-top: 20px;
 	}
+	.award-tag {
+    	right: 0;
+		top: 5px;
+	}
 }
